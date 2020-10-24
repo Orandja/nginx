@@ -10,7 +10,7 @@
 
 
 #define nginx_version      1018000
-#define NGINX_VERSION      "1.18.0"
+#define NGINX_VERSION      "1.18.0-Orandja"
 #define NGINX_VER          "nginx/" NGINX_VERSION
 
 #ifdef NGX_BUILD
